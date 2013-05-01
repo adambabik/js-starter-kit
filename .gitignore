@@ -40,6 +40,7 @@ Icon
 
 # Source: https://github.com/github/gitignore/blob/master/Global/SublimeText.gitignore
 
+*.sublime-project
 *.sublime-workspace
 
 

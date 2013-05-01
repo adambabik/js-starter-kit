@@ -1,6 +1,8 @@
 # JavaScript Project Start Kit
 
-This project contains all necessary configuration files and is supposed to be a starting point for a new JavaScript project.
+JavaScript Project Start Kit contains optimized configuration files for various tools used while developing JavaScript projects.
+
+The main goal behind it is to speed up the initial phase of creating a new project including setting up a directory structure, building tools, JS linter, npm config file and other.
 
 ## Configuration files
 

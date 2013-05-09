@@ -1,6 +1,6 @@
-# JavaScript Project Start Kit
+# JavaScript Project Starter Kit
 
-JavaScript Project Start Kit contains optimized configuration files for various tools used while developing JavaScript applications.
+JavaScript Project Starter Kit contains optimized configuration files for various tools used while developing JavaScript applications.
 
 The main goal behind it is to speed up the initial phase of creating a new project including setting up a directory structure, building tools, JS lintera and npm config files etc.
 

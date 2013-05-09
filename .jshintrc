@@ -7,7 +7,6 @@
     "eqeqeq"        : true,
     "forin"         : true,
     "immed"         : false,
-    "indent"        : 2,
     "latedef"       : true,
     "newcap"        : true,
     "noarg"         : true,
@@ -25,14 +24,12 @@
     "maxcomplexity" : false,
     "maxlen"        : 120,
 
-    // Relaxing
     "asi"           : false,
     "boss"          : true,
     "debug"         : true,
     "eqnull"        : true,
     "es5"           : true,
     "esnext"        : true,
-    "moz"           : false,
 
     "evil"          : true,
     "expr"          : true,

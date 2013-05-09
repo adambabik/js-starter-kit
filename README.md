@@ -10,6 +10,7 @@ The main goal behind it is to speed up the initial phase of creating a new proje
 | --------- | ----------- |
 | .gitignore | ignore all files that don't need to be tracked |
 | .jshintrc | slightly modified [default settings](https://github.com/jshint/jshint/blob/master/examples/.jshintrc) |
+| .bowerrc | [bower](https://github.com/bower/bower) bower config file, set up only the default directory |
 | .npmignore | keep files out of the package |
 | Gruntfile.js | [Grunt](https://github.com/gruntjs/grunt) config file with uglify, jshint and concat |
 | LICENSE-MIT | text of MIT license |
